@@ -1,0 +1,68 @@
+
+X_data_augment shape: (9000, 760)
+X_data_augment_list[0] shape: (1800, 760)
+X_data_augment_list[1] shape: (1800, 760)
+X_data_augment_list[2] shape: (1800, 760)
+X_data_augment_list[3] shape: (1800, 760)
+X_data_augment_list[4] shape: (1800, 760)
+eta = 0.1, max_depth = 3, min_child_weight = 1, gamma=0, mean accuracy = 0.779889
+eta = 0.1, max_depth = 3, min_child_weight = 1, gamma=0.1, mean accuracy = 0.779889
+eta = 0.1, max_depth = 3, min_child_weight = 1, gamma=0.2, mean accuracy = 0.779889
+eta = 0.1, max_depth = 3, min_child_weight = 1, gamma=0.3, mean accuracy = 0.779889
+eta = 0.1, max_depth = 3, min_child_weight = 1, gamma=0.4, mean accuracy = 0.779889
+eta = 0.1, max_depth = 3, min_child_weight = 1, gamma=0.5, mean accuracy = 0.779889
+eta = 0.1, max_depth = 3, min_child_weight = 2, gamma=0, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 2, gamma=0.1, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 2, gamma=0.2, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 2, gamma=0.3, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 2, gamma=0.4, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 2, gamma=0.5, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 3, gamma=0, mean accuracy = 0.780556
+eta = 0.1, max_depth = 3, min_child_weight = 3, gamma=0.1, mean accuracy = 0.780556
+eta = 0.1, max_depth = 3, min_child_weight = 3, gamma=0.2, mean accuracy = 0.780556
+eta = 0.1, max_depth = 3, min_child_weight = 3, gamma=0.3, mean accuracy = 0.780556
+eta = 0.1, max_depth = 3, min_child_weight = 3, gamma=0.4, mean accuracy = 0.780556
+eta = 0.1, max_depth = 3, min_child_weight = 3, gamma=0.5, mean accuracy = 0.780556
+eta = 0.1, max_depth = 3, min_child_weight = 4, gamma=0, mean accuracy = 0.780444
+eta = 0.1, max_depth = 3, min_child_weight = 4, gamma=0.1, mean accuracy = 0.780444
+eta = 0.1, max_depth = 3, min_child_weight = 4, gamma=0.2, mean accuracy = 0.780444
+eta = 0.1, max_depth = 3, min_child_weight = 4, gamma=0.3, mean accuracy = 0.780444
+eta = 0.1, max_depth = 3, min_child_weight = 4, gamma=0.4, mean accuracy = 0.780444
+eta = 0.1, max_depth = 3, min_child_weight = 4, gamma=0.5, mean accuracy = 0.780444
+eta = 0.1, max_depth = 3, min_child_weight = 5, gamma=0, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 5, gamma=0.1, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 5, gamma=0.2, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 5, gamma=0.3, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 5, gamma=0.4, mean accuracy = 0.780000
+eta = 0.1, max_depth = 3, min_child_weight = 5, gamma=0.5, mean accuracy = 0.780000
+eta = 0.3, max_depth = 3, min_child_weight = 1, gamma=0, mean accuracy = 0.779222
+eta = 0.3, max_depth = 3, min_child_weight = 1, gamma=0.1, mean accuracy = 0.779222
+eta = 0.3, max_depth = 3, min_child_weight = 1, gamma=0.2, mean accuracy = 0.779222
+eta = 0.3, max_depth = 3, min_child_weight = 1, gamma=0.3, mean accuracy = 0.779222
+eta = 0.3, max_depth = 3, min_child_weight = 1, gamma=0.4, mean accuracy = 0.779222
+eta = 0.3, max_depth = 3, min_child_weight = 1, gamma=0.5, mean accuracy = 0.779222
+eta = 0.3, max_depth = 3, min_child_weight = 2, gamma=0, mean accuracy = 0.779444
+eta = 0.3, max_depth = 3, min_child_weight = 2, gamma=0.1, mean accuracy = 0.779444
+eta = 0.3, max_depth = 3, min_child_weight = 2, gamma=0.2, mean accuracy = 0.779444
+eta = 0.3, max_depth = 3, min_child_weight = 2, gamma=0.3, mean accuracy = 0.779444
+eta = 0.3, max_depth = 3, min_child_weight = 2, gamma=0.4, mean accuracy = 0.779444
+eta = 0.3, max_depth = 3, min_child_weight = 2, gamma=0.5, mean accuracy = 0.779444
+eta = 0.3, max_depth = 3, min_child_weight = 3, gamma=0, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 3, gamma=0.1, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 3, gamma=0.2, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 3, gamma=0.3, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 3, gamma=0.4, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 3, gamma=0.5, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 4, gamma=0, mean accuracy = 0.778444
+eta = 0.3, max_depth = 3, min_child_weight = 4, gamma=0.1, mean accuracy = 0.778444
+eta = 0.3, max_depth = 3, min_child_weight = 4, gamma=0.2, mean accuracy = 0.778444
+eta = 0.3, max_depth = 3, min_child_weight = 4, gamma=0.3, mean accuracy = 0.778444
+eta = 0.3, max_depth = 3, min_child_weight = 4, gamma=0.4, mean accuracy = 0.778444
+eta = 0.3, max_depth = 3, min_child_weight = 4, gamma=0.5, mean accuracy = 0.778444
+eta = 0.3, max_depth = 3, min_child_weight = 5, gamma=0, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 5, gamma=0.1, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 5, gamma=0.2, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 5, gamma=0.3, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 5, gamma=0.4, mean accuracy = 0.778556
+eta = 0.3, max_depth = 3, min_child_weight = 5, gamma=0.5, mean accuracy = 0.778556
+best mean accuracy: 0.780556
